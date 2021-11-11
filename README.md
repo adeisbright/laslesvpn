@@ -5,4 +5,4 @@ A simple landing page for laslesvpn -  An hypothetical VPN Vendor
 
 ## How to Use 
 
-Download the code by clicking on the code button towards the top-middle of this page , read throught , practice , ask questions
+Download the code by clicking on the code button towards the top-middle of this page , read throught , practice , ask question on any confusing segment
